@@ -9,7 +9,7 @@
 -->
 
 ## Like my work? Consider contributing
-![GitHub Sponsors](https://img.shields.io/github/sponsors/DEADSEC-SECURITY?style=for-the-badge&logo=github&label=Github%20Sponsors&color=black&link=https%3A%2F%2Fgithub.com%2Fsponsors%2FDEADSEC-SECURITY)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/DEADSEC-SECURITY?style=for-the-badge&logo=github&label=Github%20Sponsors&color=black&link=https%3A%2F%2Fgithub.com%2Fsponsors%2FDEADSEC-SECURITY)](https://github.com/sponsors/DEADSEC-SECURITY)
 [![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Ddeadsec%26type%3Dpatrons&style=for-the-badge)](https://patreon.com/deadsec)
 
 ## 📈 GitHub Stats
